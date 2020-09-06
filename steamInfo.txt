@@ -1,0 +1,44 @@
+This mod increases the number of Missiles that the Albion Skunk can store from 150 to 240. (+90 capacity, an +60% increase)
+
+Perhaps you started a fight with a full clip, but somehow used them all up in the middle of the fight, and got beaten up by enemy fighters. This mod mitigates that. By providing a larger Missile clip to Albion Skunk, you should be able to fight longer engagements. Also, you don't have to visit the Arms Dealers that often. Yay!
+
+Incompatibilities
+This is just a simple patch mod with one file and one patch opeartion. It should work with any mod out there. However, I am confident that this mod will not work with those mods that modify the player ship into something else.
+
+Applicable Game Versions
+Because of the simplicity of this mod, I boldly assume that this mod can work with [b]any game version[/b], from v1.00 up to v4.30.
+
+Save-Game Safety
+Can be removed anytime. Over-limit Missiles will not be removed, but then you won't be able to replenish the used over-limit Missiles.
+
+May fortune favor you!
+
+這個mod把阿爾比恩臭鼬可以存儲的飛彈數量從150增加到240.（+90容量，增加+60%）
+
+也許你曾帶着滿載的飛彈開打，但不知為何在混戰之中用光飛彈了，然後就被敵方戰機幹着打了。這個mod緩解了這一點。為阿爾比恩臭鼬提高搭載量，應可令戰鬥力更持久。此外，您不必經常訪問武器商人。好極了！
+
+兼容性
+這只是一個簡單的補丁mod，只包含一個文件和一個補丁操作。它應該適用於出面的任何mod。不過，我確信這個mod不適用於那些將主飛船換成其他飛船的其他mod。
+
+適用的遊戲版本
+由於這個mod相當簡單，我可以大膽假設這個mod可以與[b]任何遊戲版本[/b]一起使用，從v1.00到v4.30。
+
+保存遊戲安全
+可以隨時刪除。超限導彈不會被移除，但是當然地你將無法補充使用過的超限導彈。
+
+願幸運與你同在！
+
+这个mod把阿尔比恩臭鼬可以存储的飞弹数量从150增加到240.（+90容量，增加+60%）
+
+也许你曾带着满载的飞弹开打，但不知为何在混战之中用光飞弹了，然后就被敌方战机干着打了。这个mod缓解了这一点。为阿尔比恩臭鼬提高搭载量，应可令战斗力更持久。此外，您不必经常访问武器商人。好极了！
+
+兼容性
+这只是一个简单的补丁mod，只包含一个文件和一个补丁操作。它应该适用于出面的任何mod。不过，我确信这个mod不适用于那些将主飞船换成其他飞船的其他mod。
+
+适用的游戏版本
+由于这个mod相当简单，我可以大胆假设这个mod可以与[b]任何游戏版本[/b]一起使用，从v1.00到v4.30。
+
+保存游戏安全
+可以随时删除。超限导弹不会被移除，但是当然地你将无法补充使用过的超限导弹。
+
+愿幸运与你同在！

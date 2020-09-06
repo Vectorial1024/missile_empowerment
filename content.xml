@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<content id="ws_1433204747" name="Missile Empowerment" description="Albion Skunk can now store 240 (+90, i.e. +60%) Missiles." version="100" save="false" author="Vectorial1024" date="2018-07-06" sync="false" lastupdate="1530886122">
+  <text language="86" name="飞弹增军" description="阿尔比恩臭鼬现可储存240枚飞弹，比以前增加90枚，即增加六成。"/>
+  <text language="88" name="飛彈增軍" description="阿爾比恩臭鼬現可儲存240枚飛彈，比以前增加90枚，即增加六成。"/>
+</content>

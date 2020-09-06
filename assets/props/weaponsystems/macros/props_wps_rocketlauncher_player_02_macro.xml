@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<diff>
+	<replace sel="/macros/macro[@name='props_wps_rocketlauncher_player_02_macro']/properties/storage[@capacity='75']/@capacity">120</replace>
+</diff>
